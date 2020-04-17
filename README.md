@@ -201,6 +201,12 @@ https://github.com/yifeikong/reverse-interview-zh
 
 star:4.6k 
 
+## 24、青少年编程入门利器
+
+https://github.com/carlosperate/awesome-microbit
+
+BBC Microbit资料大全
+
 # End
 快到碗里来。
 
